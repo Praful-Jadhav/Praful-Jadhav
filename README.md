@@ -1,94 +1,67 @@
-```
-██████╗ ██████╗  █████╗ ███████╗██╗   ██╗██╗     
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║██║     
-██████╔╝██████╔╝███████║█████╗  ██║   ██║██║     
-██╔═══╝ ██╔══██╗██╔══██║██╔══╝  ██║   ██║██║     
-██║     ██║  ██║██║  ██║██║     ╚██████╔╝███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝
+# 👋 Hey there, I'm **Praful Jadhav**
 
-    No-Code Workflow Builder | AI/ML Productive Edge
-```
+### **R&D Engineer | AI/ML & System Automation**
 
-[![AI/ML](https://img.shields.io/badge/AI%2FML-Specialist-blue?style=for-the-badge&logo=tensorflow)](https://github.com/Praful-Jadhav)
-[![No-Code](https://img.shields.io/badge/No--Code-Automation-green?style=for-the-badge&logo=zapier)](https://github.com/Praful-Jadhav)
-[![n8n](https://img.shields.io/badge/n8n-Workflow%20Master-red?style=for-the-badge&logo=n8n)](https://github.com/Praful-Jadhav)
-[![Windsurf](https://img.shields.io/badge/Windsurf-Dev%20Environment-purple?style=for-the-badge)](https://github.com/Praful-Jadhav)
-[![Vibe Coding](https://img.shields.io/badge/Vibe-Coding-orange?style=for-the-badge&logo=code)](https://github.com/Praful-Jadhav)
-[![Business Analytics](https://img.shields.io/badge/Business-Analytics-teal?style=for-the-badge&logo=chart-line)](https://github.com/Praful-Jadhav)
+I design, test, and build intelligent systems using open-source AI, modern JavaScript frameworks, and automation pipelines.  
+My work focuses on bridging **AI/ML engineering**, **system validation**, and **production-ready automation**.
 
 ---
 
-**Hi, I'm Praful 🚀 I automate, optimize, and boost productivity using AI/no-code platforms—making tech & teamwork easy for everyone.**
+### 🔧 **What I Do**
+
+- Applied R&D in AI/ML & workflow automation
+- Build developer tools (CLI, VS Code extensions, dashboards)
+- System Design & Requirements Engineering
+- V&V Testing (Verification, Validation & Agile workflows)
+- CI/CD pipelines, automation & documentation systems
 
 ---
 
-## ⚡️ My Toolstack
+### 🚀 **Highlighted Projects**
 
-🔄 **n8n** → Building complex automation workflows without writing code  
-🎯 **Windsurf** → Advanced development environment for seamless coding  
-⚡ **Cursor** → AI-powered editor that codes alongside me  
-🎨 **v0** → Instant UI/UX prototyping and design automation  
-🚀 **Bolt** → Rapid application development and deployment  
-🧠 **Anthropic** → AI assistant integration for intelligent workflows  
-💡 **Google Code Assist** → Smart coding companion for faster development  
-🎪 **Lovable** → User experience optimization and enhancement  
-📊 **Trae** → Project management and team collaboration  
+#### 🧠 **VibeCode – AI-Powered Code Extension**
+- VS Code extension using custom prompt engineering
+- Reduces repetitive coding tasks by 25%
+- 40% higher developer satisfaction (tested with 5 devs)
 
----
+#### 🔐 **VibeBoard – Security Workflow Dashboard**
+- 50+ user roles with complete RBAC
+- 100% unauthorized access prevention
+- Automated CI/CD with GitHub Actions
 
-## 📸 Work at a Glance
-
-- [x] 🛠 **Workflow Demos** → Live automation showcases
-- [x] 🧠 **R&D Projects** → AI/ML research implementations
-- [x] 🤝 **Team Productivity** → Collaboration tool integrations
-- [ ] ⭐️ **Coming Soon** → Open-source workflow templates
-- [ ] 🎨 **UI Library** → No-code design components
-- [ ] 📱 **Mobile Automation** → Cross-platform workflow apps
+#### 📘 **VibeDoc – AI-Assisted Documentation Utility**
+- CLI tool for 10k+ line codebases
+- Automates documentation – 60% faster
+- Published on PyPI | 99% installation success
 
 ---
 
-## 🌟 Testimonial
+### 🧩 **Skills & Tools**
 
-> 💬 **"Praful consistently demonstrates resourcefulness, learning agility, and a management mindset. He is adept at leveraging next-gen AI/no-code tools like n8n, Windsurf, and v0 for business and research needs. Colleagues recognize his ability to streamline teamwork and deliver innovation without traditional coding."**  
-> 
-> 🏆 *— Team Leadership & Innovation Recognition*
-
----
-
-## 🎓 About Me
-
-**Final Year BTech - AI/ML** | **Workflow Automation Expert** | **Business Analytics Enthusiast**
-
-- 🤖 **AI/ML Development** → No-code approaches to machine learning
-- 🔄 **Workflow Automation** → End-to-end process optimization
-- 📊 **Business Analytics & R&D** → Data-driven decision making
-- 🎯 **Productivity Enhancement** → Tools that actually save time
-- 👥 **Team Management** → Collaborative innovation leadership
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**AI/ML:** Machine Learning, Deep Learning, Prompt Engineering  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Supabase, Node.js, FastAPI  
+**DevOps:** GitHub Actions, Docker, CI/CD  
+**R&D:** System Architecture, V&V Testing, Requirements Engineering
 
 ---
 
-## 🤝 Let's Connect
+### 🏆 **Recent Achievements**
 
-📍 **Location:** Parli, Maharashtra, India  
-💼 **LinkedIn:** [praful-jadhav-882a4b215](https://www.linkedin.com/in/praful-jadhav-882a4b215/)  
-🏢 **Organization:** [@liftuplabs](https://github.com/liftuplabs)  
-
----
-
-## 💡 Philosophy
-
-✨ **"Modern work should feel like flow, not friction."** ✨
-
-*Empowering the future with intelligent automation and collaborative innovation* ⭐
+- **IIT Bombay Techfest (2025)** – 98% accurate autonomous robot
+- **SGGS Nanded Hackathon (2025)** – AI chatbot, Top 5 among 50 teams
 
 ---
 
-<div align="center">
+### 📫 **Let's Connect**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Praful-Jadhav&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Praful-Jadhav?style=for-the-badge&color=blue)](https://github.com/Praful-Jadhav)
-[![GitHub stars](https://img.shields.io/github/stars/Praful-Jadhav?style=for-the-badge&color=yellow)](https://github.com/Praful-Jadhav)
+- **Portfolio:** [Your Portfolio URL]
+- **LinkedIn:** [linkedin.com/in/praful-jadhav-882a4b215](https://linkedin.com/in/praful-jadhav-882a4b215)
+- **Email:** prafuljadhav360@gmail.com
 
-**🚀 Ready to automate your workflow? Let's build something amazing together!**
+---
 
-</div>
+### ⭐ **Fun Fact**
+
+I love building tools that reduce manual work. If something is repetitive, I automate it. 😄

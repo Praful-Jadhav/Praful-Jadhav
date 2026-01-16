@@ -214,7 +214,45 @@ I'm actively seeking **Business Operations Analyst** or **Operations-focused rol
 
 ### 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Praful-Jadhav&color=blue)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Praful-Jadhav&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/praful-jadhav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://praful-portfolio-spark.lovable.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:prafuljadhav701@gmail.com)
+
+</div>
+
+
+### 🔥 Why Hire Me? (Hiring Manager Perspective)
+
+<div align="left">
+
+#### ✅ **Immediate Value**
+- ⏱️ **15-day notice period** - Can join immediately
+- 💰 **Cost-effective** - Associate level with proven 20-30% efficiency improvements
+- ⚡ **Fast ramp-up** - Minimal training required (self-taught ERP, automation tools)
+- 📊 **Quantifiable results** - Every achievement backed by metrics
+
+#### 🎯 **Perfect Fit for Business Operations Analyst**
+- 🔗 **Technical + Business bridge** - Rare combination at entry level
+- 🏦 **BFSI domain knowledge** - Minor degree + Tally certification
+- 🔧 **Hands-on operational experience** - R&D operations, ERP support, automation
+- 📝 **Documentation expert** - 60% time reduction in formatting, audit-ready records
+
+#### 🛡️ **Low Risk Hire**
+- ✅ **100% authentic skills** - No false claims, verifiable in interviews
+- 📊 **Proven track record** - 98% resolution rate, 95% satisfaction rating
+- 🔍 **Problem identifier** - Found 15+ critical bottlenecks before launch
+- 🚀 **Growth mindset** - "Currently Learning" section shows ambition
+
+#### 🎯 **ATS & Recruiter Optimized**
+- 🔑 **Keywords**: ERP, Tally, Odoo, Process Optimization, Workflow Automation, Excel, Documentation, BFSI
+- 📍 **Location-ready**: Pune (Primary), Bangalore, Hyderabad, Remote India
+- 💼 **Role clarity**: Business Operations Analyst | Operations Analyst | Process Analyst
+
+</div>
+
 
 ---
 

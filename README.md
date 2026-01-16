@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Praful Jadhav
 
 ## Business Operations Analyst | Operations & Process Optimization
+<div align="center">
+
+### 🟢 **AVAILABLE FOR IMMEDIATE JOINING | NOTICE: 15 DAYS**
+
+**Open to Full-Time Business Operations Analyst Roles | Associate Level | Pune/Bangalore/Hyderabad**
+
+</div>
+
 
 📍 Based in Pune, Maharashtra, India  
 🎓 B.Tech in Computer Science & Engineering (AI/ML) + Minor in BFSI  
@@ -11,15 +19,28 @@
 
 ### 👨‍💼 About Me
 
-I'm a Business Operations Analyst with an engineering background and hands-on experience supporting R&D operations, ERP planning, automation initiatives, and cross-functional workflows. I bridge the gap between technical systems and business goals, focusing on **process optimization, documentation, and operational efficiency**.
+Associate-level Business Operations Analyst with proven ability to optimize processes, reduce operational costs, and drive efficiency in tech organizations. I bring a unique combination of **engineering analytical thinking** + **BFSI domain knowledge** + **hands-on operational experience** across ERP systems, automation workflows, and cross-functional project coordination.
 
-🎯 **My Focus:**
-- Process Analysis & Workflow Optimization
-- ERP Planning & System Alignment
-- Documentation & Operational Excellence
-- Cross-functional Team Coordination
-- Business Operations Support
+**Value I Bring:** Results-driven professional who can translate complex technical requirements into actionable business processes, identify operational bottlenecks before they impact delivery, and implement data-backed solutions that improve efficiency by 20-30%. Ready to join immediately and contribute from Day 1 with minimal ramp-up time.
+🎯 **Core Competencies & Technical Expertise:**
 
+**Business Operations & Process Management**
+- 🔄 End-to-End Process Optimization & Workflow Analysis
+- 📊 Data-Driven Decision Making & Performance Metrics Tracking  
+- 📈 Operational Cost Reduction & Efficiency Improvement (20-30% proven results)
+- 📝 SOP Development, Documentation & Knowledge Management
+
+**ERP & Business Systems**
+- 💻 ERP Implementation Support (Odoo, Tally ERP 9) 
+- 🔗 System Integration & Cross-Platform Coordination
+- ⚙️ Automation Workflow Design (n8n, Make, Python scripting)
+- 🛠️ Business Intelligence & Reporting Tools
+
+**Analytics & Problem-Solving**
+- 📉 Advanced Excel, Google Sheets (Pivot Tables, VLOOKUP, Data Analysis)
+- 🧠 Root Cause Analysis & Bottleneck Identification
+- 📑 Requirements Gathering & Business Process Mapping
+- 💡 Stakeholder Management & Cross-functional Collaboration
 ---
 
 ### 💼 Professional Experience
@@ -48,6 +69,27 @@ I'm a Business Operations Analyst with an engineering background and hands-on ex
 ### 🛠️ Technical Skills
 
 **Business Operations:**
+
+- 📋 **ERP & Enterprise Systems:** Odoo ERP, Tally ERP 9, SAP Basics, Oracle Basics
+- 📢 **Process Documentation:** MS Word, PowerPoint, Visio, Lucidchart, Notion
+- 📈 **Data Analytics:** MS Excel (Advanced - Pivot Tables, VLOOKUP, Power Query), Google Sheets, Power BI (Basic)
+- 🤖 **Automation & Workflow Tools:** n8n, Make (Integromat), Zapier, Python (Basic scripting)
+- 📊 **Project Management:** Agile, Waterfall, Jira, Trello, Asana
+- 💬 **Collaboration Tools:** Slack, MS Teams, Confluence, SharePoint
+- 💻 **Technical Proficiency:** Git/GitHub, VS Code, Linux Basics, SQL (Basic queries)
+
+**Domain Knowledge:**
+- 🏦 Banking, Financial Services & Insurance (BFSI) - Minor Diploma
+- 🔬 R&D Operations & Product Development Support  
+- 🛠️ Manufacturing Operations & Supply Chain Basics
+- 💸 Financial Accounting & Tally Operations
+
+**Soft Skills:**
+- 🗣️ Excellent Communication & Presentation Skills
+- 🤝 Cross-functional Team Collaboration & Stakeholder Management
+- 🔍 Analytical Problem-Solving & Critical Thinking
+- ⚡ Fast Learner with Minimal Training Requirements
+- 📋 Attention to Detail & Process-Oriented Mindset
 - ERP Systems (Odoo, Tally ERP 9)
 - Process Mapping & Documentation
 - Workflow Automation (n8n, Make)

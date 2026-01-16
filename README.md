@@ -11,7 +11,7 @@
 
 
 📍 Based in Pune, Maharashtra, India  
-🎓 B.Tech in Computer Science & Engineering (AI/ML) + Minor in BFSI  
+🎓 B.Tech in Computer Science & Engineering (AI/ML)  
 💼 Currently: R&D Officer (Intern) at Adroit Engineering  
 🔍 Seeking: Business Operations Analyst roles in tech-aligned organizations
 
@@ -30,8 +30,8 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 - 📈 Operational Cost Reduction & Efficiency Improvement (20-30% proven results)
 - 📝 SOP Development, Documentation & Knowledge Management
 
-**ERP & Business Systems**
-- 💻 ERP Implementation Support (Odoo, Tally ERP 9) 
+**Business Systems & Tools (Working Knowledge)**
+- **Business Sy💻 Business Systems Exposure (Odoo, Tally ERP 9)stems & Tools (Working Knowledge)** 
 - 🔗 System Integration & Cross-Platform Coordination
 - ⚙️ Automation Workflow Design (n8n, Make, Python scripting)
 - 🛠️ Business Intelligence & Reporting Tools

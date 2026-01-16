@@ -109,17 +109,17 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 
 #### **System Strategist Portfolio** - Professional Portfolio Platform
 💼 *TypeScript | React | Modern Web Technologies*
-- Production-ready portfolio showcasing business operations and technical expertise
-- Built with industry-standard TypeScript for type safety and maintainability
+- Professional portfolio showcasing business operations and technical expertise
+- Structured using industry-standard TypeScript for type safety and maintainability
 - Modern UI/UX design with responsive components and optimized performance
-- Demonstrates full-stack development capabilities and design principles
+- Demonstrates systems analysis capabilities and design principles
 
 #### **Workflow Automation Tracker** - Process Efficiency & Operations Management
-⚙️ *MERN Stack | Full-Stack Application*
+⚙️ *Process Architecture & Workflow Documentation*
 - Data-driven system for monitoring operational workflows and identifying optimization opportunities
-- Backend built with Node.js, Express, and MongoDB following MVC architecture
+- Backend Structured using Node.js, Express, and MongoDB following MVC architecture
 - Real-time tracking dashboard with analytics and performance metrics
-- Implements industry-standard SDLC practices including proper error handling and validation
+- Follows industry-standard SDLC practices including proper error handling and validation
 
 
 #### **Aegis OS** - Personal AI Ecosystem
@@ -130,7 +130,7 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 
 #### **Worth Optimizer** - Job Application Automation
 🎯 *Lead Solution Designer*
-- Developed logical framework for automated recruitment tool
+- Designed logical framework for automated recruitment tool
 - Created "Reverse-Matching" algorithm for candidate-fit filtering
 - Streamlined hiring process for Indian job market
 

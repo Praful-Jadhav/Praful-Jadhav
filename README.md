@@ -19,7 +19,7 @@
 
 ### 👨‍💼 About Me
 
-Associate-level Business Operations Analyst with proven ability to optimize processes, reduce operational costs, and drive efficiency in tech organizations. I bring a unique combination of **engineering analytical thinking** + **BFSI domain knowledge** + **hands-on operational experience** across ERP systems, automation workflows, and cross-functional project coordination.
+Associate-level Business Operations Analyst with proven ability to optimize processes, reduce operational costs, and drive efficiency in tech organizations. I bring a unique combination of **engineering analytical thinking** + **broad business understanding** + **hands-on operational experience** across ERP systems, automation workflows, and cross-functional project coordination.
 
 **Value I Bring:** Results-driven professional who can translate complex technical requirements into actionable business processes, identify operational bottlenecks before they impact delivery, and implement data-backed solutions that improve efficiency by 20-30%. Ready to join immediately and contribute from Day 1 with minimal ramp-up time.
 🎯 **Core Competencies & Technical Expertise:**
@@ -236,7 +236,7 @@ I'm actively seeking **Business Operations Analyst** or **Operations-focused rol
 
 #### 🎯 **Perfect Fit for Business Operations Analyst**
 - 🔗 **Technical + Business bridge** - Rare combination at entry level
-- 🏦 **BFSI domain knowledge** - Minor degree + Tally certification
+- 🏦 **broad business understanding** - Minor degree + Tally certification
 - 🔧 **Hands-on operational experience** - R&D operations, ERP support, automation
 - 📝 **Documentation expert** - 60% time reduction in formatting, audit-ready records
 

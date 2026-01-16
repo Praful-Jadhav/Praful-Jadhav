@@ -107,6 +107,21 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 
 ### 🚀 Featured Projects
 
+#### **System Strategist Portfolio** - Professional Portfolio Platform
+💼 *TypeScript | React | Modern Web Technologies*
+- Production-ready portfolio showcasing business operations and technical expertise
+- Built with industry-standard TypeScript for type safety and maintainability
+- Modern UI/UX design with responsive components and optimized performance
+- Demonstrates full-stack development capabilities and design principles
+
+#### **Workflow Automation Tracker** - Process Efficiency & Operations Management
+⚙️ *MERN Stack | Full-Stack Application*
+- Data-driven system for monitoring operational workflows and identifying optimization opportunities
+- Backend built with Node.js, Express, and MongoDB following MVC architecture
+- Real-time tracking dashboard with analytics and performance metrics
+- Implements industry-standard SDLC practices including proper error handling and validation
+
+
 #### **Aegis OS** - Personal AI Ecosystem
 🎯 *Product Owner & System Architect*
 - Designed architecture for privacy-first AI Operating System

@@ -123,20 +123,6 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 🎯 *Security Strategy & Planning*
 - Designed blueprint for personal data vault
 - Established privacy protocols with zero-knowledge architecture
-
-#### **SOP Management System** - Process Documentation Platform
-🎯 *Operations Excellence & Knowledge Management*
-- Centralized system for documenting and managing Standard Operating Procedures
-- Streamlined process documentation with version control and approval workflows
-- Enhanced team efficiency through accessible, searchable procedure repository
-
-#### **Workflow Automation Tracker** - Project Management & Monitoring System
-⚙️ *Full-Stack MERN Application*
-- Production-grade backend with MongoDB, Express.js, and Node.js
-- Comprehensive workflow tracking with real-time metrics and analytics
-- Industry-standard architecture with proper validation, security, and error handling
-- #### **VibeBoard** - Security & Workflow Dashboard
-
 🎯 System Analyst
 
 - 👥 Managed **50+ user roles** with RBAC implementation

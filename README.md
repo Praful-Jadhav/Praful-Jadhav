@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praful Jadhav
 
-## Business Operations Analyst | R&D Operations & Process Optimization
+## Business Operations Analyst | Operations & Process Optimization
 
 📍 Based in Pune, Maharashtra, India  
 🎓 B.Tech in Computer Science & Engineering (AI/ML) + Minor in BFSI  

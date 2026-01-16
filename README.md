@@ -124,10 +124,17 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 - Designed blueprint for personal data vault
 - Established privacy protocols with zero-knowledge architecture
 
-#### **VibeDoc** - Automated Documentation System
-- Reduced manual formatting time by **60%**
-- Ensured audit-ready technical records
+#### **SOP Management System** - Process Documentation Platform
+🎯 *Operations Excellence & Knowledge Management*
+- Centralized system for documenting and managing Standard Operating Procedures
+- Streamlined process documentation with version control and approval workflows
+- Enhanced team efficiency through accessible, searchable procedure repository
 
+#### **Workflow Automation Tracker** - Project Management & Monitoring System
+⚙️ *Full-Stack MERN Application*
+- Production-grade backend with MongoDB, Express.js, and Node.js
+- Comprehensive workflow tracking with real-time metrics and analytics
+- Industry-standard architecture with proper validation, security, and error handling
 - #### **VibeBoard** - Security & Workflow Dashboard
 
 🎯 System Analyst

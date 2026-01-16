@@ -36,6 +36,13 @@ I'm a Business Operations Analyst with an engineering background and hands-on ex
 - 📊 Achieved **95% positive feedback** rating
 - 📈 Increased assessment scores by **10%** and completion rates by **40%**
 
+- **Technical Lab Assistant** @ SP System Support | Aug 2020 - Apr 2022
+
+- 🖥️ Supported day-to-day system operations and IT support for **100+ client systems**
+- 🎯 Achieved **98% first-contact resolution** rate
+- ⏱️ Reduced system downtime by **20%** through preventive maintenance schedules
+- 🔧 Managed system setup, maintenance, and operational readiness
+
 ---
 
 ### 🛠️ Technical Skills
@@ -81,6 +88,24 @@ I'm a Business Operations Analyst with an engineering background and hands-on ex
 #### **VibeDoc** - Automated Documentation System
 - Reduced manual formatting time by **60%**
 - Ensured audit-ready technical records
+
+- #### **VibeBoard** - Security & Workflow Dashboard
+
+🎯 System Analyst
+
+- 👥 Managed **50+ user roles** with RBAC implementation
+- ✅ Achieved **100% security test pass** rate
+- 🛡️ Established role-based access control and permissions management
+
+---
+
+#### **VibeCode** - Internal Developer Productivity Tool
+
+🎯 Workflow Architect
+
+- ⚡ Achieved **25% productivity boost** for development team
+- 😊 Increased user satisfaction by **40%**
+- 🔧 Streamlined developer workflows and tool integration
 
 ---
 

@@ -70,37 +70,34 @@ Associate-level Business Operations Analyst with proven ability to optimize proc
 
 **Business Operations:**
 
-- 📋 **ERP & Enterprise Systems:** Odoo ERP, Tally ERP 9, SAP Basics, Oracle Basics
-- 📢 **Process Documentation:** MS Word, PowerPoint, Visio, Lucidchart, Notion
-- 📈 **Data Analytics:** MS Excel (Advanced - Pivot Tables, VLOOKUP, Power Query), Google Sheets, Power BI (Basic)
-- 🤖 **Automation & Workflow Tools:** n8n, Make (Integromat), Zapier, Python (Basic scripting)
-- 📊 **Project Management:** Agile, Waterfall, Jira, Trello, Asana
-- 💬 **Collaboration Tools:** Slack, MS Teams, Confluence, SharePoint
-- 💻 **Technical Proficiency:** Git/GitHub, VS Code, Linux Basics, SQL (Basic queries)
+- 📋 **ERP Systems (Assisted Usage):** Odoo (supported implementation), Tally ERP 9 (Proficient - accounting & invoicing)
+- 📝 **Documentation & Reporting:** MS Excel (Daily operational usage - basic formulas, data entry), Google Sheets, PowerPoint, Notion
+- 🤖 **Automation Tools (Workflow-Level Understanding):** n8n, Make (assisted usage - not independent expert)
+- 💬 **AI Tools for Workflows:** ChatGPT, Gemini (hands-on for analysis, documentation, operational workflows)
+- 💻 **Basic Technical Skills:** Git/GitHub (basic usage, documentation), VS Code (tool usage), Python & JavaScript (Basic - learning)
+
+**What I'm Currently Learning & Growing Into:**
+- 📈 Advanced Excel (Pivot Tables, VLOOKUP, Data Analysis) - actively developing
+- 📊 Power BI Basics - exploring for reporting
+- 🔧 Process Mapping Tools - Visio, Lucidchart (basic familiarity)
+- 📊 Project Management Tools - Jira, Trello (exposure through projects)
+
+
+
 
 **Domain Knowledge:**
-- 🏦 Banking, Financial Services & Insurance (BFSI) - Minor Diploma
-- 🔬 R&D Operations & Product Development Support  
-- 🛠️ Manufacturing Operations & Supply Chain Basics
-- 💸 Financial Accounting & Tally Operations
+- 🏦 Banking, Financial Services & Insurance (BFSI) - Minor Diploma (2025)
+- 🔬 R&D Operations & Product Development Support (hands-on from Adroit Engineering internship)
+- 🛠️ Manufacturing Operations & Technical System Support (exposure from previous roles)
+- 💸 Financial Accounting & Tally Operations (MSCIT certified)
 
-**Soft Skills:**
-- 🗣️ Excellent Communication & Presentation Skills
-- 🤝 Cross-functional Team Collaboration & Stakeholder Management
-- 🔍 Analytical Problem-Solving & Critical Thinking
-- ⚡ Fast Learner with Minimal Training Requirements
-- 📋 Attention to Detail & Process-Oriented Mindset
-- ERP Systems (Odoo, Tally ERP 9)
-- Process Mapping & Documentation
-- Workflow Automation (n8n, Make)
-- Business Analysis & Reporting
-
-**Tools & Platforms:**
-- MS Excel, Google Sheets (Advanced)
-- PowerPoint, Notion, VS Code
-- Git/GitHub (Documentation focus)
-- ChatGPT, Gemini (Operational workflows)
-
+**Proven Soft Skills (from actual experience):**
+- 🗣️ Communication & Coordination (trained 100+ students, coordinated 5-person teams)
+- 🤝 Cross-functional Team Support (worked with technical teams, management, dealers)
+- 🔍 Problem-Solving & Bottleneck Identification (identified 15+ critical issues pre-launch)
+- 📝 Process Documentation (SOP creation, technical records, audit documentation)
+- ⚡ Fast Learner & Adaptable (picked up ERP, automation tools through hands-on support)
+- 📋 Detail-Oriented (98% first-contact resolution, 95% positive feedback rating)
 **Technical Foundation:**
 - Python, JavaScript (Basic/Support level)
 - Linux Systems (Debian/Ubuntu)

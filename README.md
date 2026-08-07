@@ -3,8 +3,6 @@
 ## Business Operations Analyst | Operations & Process Optimization
 <div align="center">
 
-### 🟢 **IMMEDIATE JOINING | NOTICE: 15 DAYS**
-
 **Open to Full-Time Business Operations Analyst Roles | Associate Level | Pune/Bangalore/Hyderabad**
 
 </div>

@@ -1,93 +1,102 @@
 # Praful Jadhav
 
-> **Business & Technology Systems | Operations | Business Analysis | AI & Automation**
+**Technical / Business Systems Analyst** focused on the intersection of **business operations, technology, systems analysis, process improvement, and automation**.
 
-I work at the intersection of **business operations and technology** — analyzing problems, improving processes, designing practical systems, and using automation where it creates measurable leverage.
+I turn ambiguous business problems into clearer **requirements, processes, system models, decisions, and practical implementation paths**.
 
-My background in computer science gives me technical fluency, while my primary professional focus is on **how technology can improve the way businesses operate and make decisions**.
+> **Business problem → analysis → system thinking → technology → better execution**
 
-## What I Focus On
+## What I do
 
-- Business & systems analysis
-- Operations and process improvement
-- Requirements and solution design
-- Workflow and process automation
-- AI-assisted business workflows
-- Technology-enabled operations
-- Product and systems thinking
-- Technical documentation and decision analysis
+| Area | What I bring |
+|---|---|
+| **Business Analysis** | Problem definition, requirements, stakeholder thinking, decision support |
+| **Systems Analysis** | Capability mapping, workflows, dependencies, system boundaries, trade-offs |
+| **Operations** | Process improvement, workflow design, operational efficiency, automation opportunities |
+| **Technology** | APIs, databases, architecture, AI systems, integrations, technical feasibility |
+| **Automation** | Workflow automation, AI-assisted processes, n8n and integration patterns |
+| **Documentation** | Clear analysis, decision records, system documentation, implementation plans |
 
-## How I Work
+## Selected work
 
-```text
-Business Problem
-      ↓
-Understand & Analyze
-      ↓
-Requirements / Process Model
-      ↓
-Solution Design
-      ↓
-Technology & Automation
-      ↓
-Execution & Improvement
-```
+This profile is intentionally **curated rather than crowded**. The public work is being rebuilt around a few pieces of evidence that demonstrate how I think and work.
 
-I prefer **business outcomes over technology for its own sake**, practical systems over unnecessary complexity, and evidence over hype.
+### 01 — Business & Technology Analysis
 
-## Technical Foundation
+**Research, systems analysis, requirements, process analysis, and decision support.**
 
-**Languages & Application:** Python, TypeScript, JavaScript, SQL, React, Next.js, Node.js, REST APIs
+→ [Research-Business_analysis](https://github.com/Praful-Jadhav/Research-Business_analysis)
 
-**Systems & Infrastructure:** Git, GitHub, Docker, databases, APIs, security fundamentals, system architecture
+### 02 — Project Openmind
 
-**AI & Automation:** AI applications, workflow automation, AI integration, knowledge systems, n8n and related automation patterns
+**Research-led exploration of people, information, systems, and intelligent technology.**
 
-Technology is a supporting capability. The objective is to solve the right problem, not to maximize the stack.
+→ [Project-Openmind](https://github.com/Praful-Jadhav/Project-Openmind)
 
-## Selected Evidence
+### 03 — Professional Portfolio
 
-This profile is intentionally curated rather than a catalogue of every project I have explored.
+**Case studies and professional evidence translated for recruiters, business stakeholders, and technical reviewers.**
 
-The public portfolio is being rebuilt around a small set of artifacts that demonstrate:
+→ [Project-Portfolio](https://github.com/Praful-Jadhav/Project-Portfolio)
 
-- business and technical analysis
-- operational problem solving
-- system and workflow design
-- practical automation
-- documented engineering decisions
-- genuine open-source engineering
+### 04 — Open-source engineering
 
-Historical projects and experiments remain useful as an internal evidence base. They are mined for reusable ideas, architecture, research, code, lessons, and patterns rather than republished as project spam.
+One deliberately scoped public engineering project will provide deeper implementation evidence. It will be published only when the implementation, documentation, tests, and claims are ready.
 
-## Professional Direction
+## How I work
 
-**Employment:** Business & Technology Systems / Operations Analyst roles, with emphasis on business analysis, process improvement, technology-enabled operations, and automation.
+I start with the problem rather than the technology.
 
-**Long term:** Build toward entrepreneurship, ownership, and technology-enabled businesses.
+**Context → problem → current state → requirements → options → trade-offs → recommendation → execution**
 
-These are not competing identities. The professional role is the market-facing application of the same underlying strengths: **understanding problems, connecting business and technology, and improving systems.**
+My technical background helps me communicate with engineers and understand feasibility. My primary professional value is **connecting business needs with technology and execution**.
 
-## Engineering Standard
+## Professional direction
 
-I value:
+**Primary:** Technical / Business Systems Analyst
 
-- Real implementation over presentation
-- Evidence over inflated claims
-- Maintainability over unnecessary complexity
-- Reusable systems over one-off work
-- Open standards and open-source where practical
-- Documentation as part of engineering
-- Measurable outcomes where they can be established
+**Adjacent:** Business Analyst — Systems / Operations · Product Analyst · Solutions Consultant / Associate Solutions Architect · Operations Strategy Analyst
 
-I do not claim production scale, users, revenue, or impact where the evidence does not support it.
+**Long term:** entrepreneurship, ownership, and building technology-enabled businesses.
 
-## Current Direction
+The market-facing role does not replace the underlying identity. It translates the same systems and entrepreneurial thinking into value an organisation can hire for.
 
-I am building a deliberately small public body of work around **business systems, operations, technology, AI/automation, and open-source engineering**.
+## Technical foundation
 
-The objective is simple: **create useful systems, document the reasoning, and let the quality of the evidence speak for itself.**
+**Python · JavaScript · TypeScript · SQL · REST APIs · React · Next.js · Node.js · Git · GitHub · Docker · Databases · AI applications · Workflow automation · n8n**
+
+I am not positioning myself as a code-first software engineer. I use technical fluency to **analyse systems, assess feasibility, work across business and engineering contexts, and design practical solutions**.
+
+## Evidence standard
+
+A public claim should be traceable to reality.
+
+I distinguish between:
+
+- **Observed** — supported by available evidence
+- **Assumed** — not yet verified
+- **Proposed** — a design or recommendation
+- **Implemented** — actually built
+- **Validated** — tested with defined evidence
+
+No invented users, revenue, production scale, adoption, or impact.
+
+## Why this profile is intentionally small
+
+I have a large historical project corpus. It is valuable as **research, evidence, reusable engineering, and lessons learned**—not as a reason to publish dozens of repositories.
+
+The public portfolio is therefore selective:
+
+**less noise → clearer signal → easier evaluation → stronger credibility**
+
+## Start here
+
+If you are a **recruiter or hiring manager**, start with the analysis and portfolio repositories.
+
+If you are a **business or operations leader**, look for the problem definition, process analysis, requirements, and decision logic.
+
+If you are an **engineer or architect**, the open-source work will provide the deeper implementation evidence.
 
 ---
 
-> **Preserve the reality. Curate the evidence. Translate the language. Close the gaps. Build only what is missing.**
+**Principle:** preserve the reality, improve the signal, and build only what the evidence requires.

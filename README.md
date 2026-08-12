@@ -1,55 +1,59 @@
 # Praful Jadhav
 
-**Technical / Business Systems Analyst** focused on the intersection of **business operations, technology, systems analysis, process improvement, and automation**.
+**Technical / Business Systems Analyst** focused on **business operations, systems analysis, process improvement, technology, AI, and automation**.
 
-I turn ambiguous business problems into clearer **requirements, processes, system models, decisions, and practical implementation paths**.
+I work on the boundary between **business problems and technical systems**: understanding the problem, structuring requirements, analysing workflows and dependencies, evaluating technology, and turning decisions into practical execution paths.
 
 > **Business problem → analysis → system thinking → technology → better execution**
 
 ## What I do
 
-| Area | What I bring |
+| Area | Evidence / capability |
 |---|---|
 | **Business Analysis** | Problem definition, requirements, stakeholder thinking, decision support |
 | **Systems Analysis** | Capability mapping, workflows, dependencies, system boundaries, trade-offs |
 | **Operations** | Process improvement, workflow design, operational efficiency, automation opportunities |
 | **Technology** | APIs, databases, architecture, AI systems, integrations, technical feasibility |
 | **Automation** | Workflow automation, AI-assisted processes, n8n and integration patterns |
-| **Documentation** | Clear analysis, decision records, system documentation, implementation plans |
+| **Documentation** | Analysis, decision records, system documentation, implementation plans |
 
-## Selected work
+## Proof of work
 
-This profile is intentionally **curated rather than crowded**. The public work is being rebuilt around a few pieces of evidence that demonstrate how I think and work.
+The public portfolio is deliberately small, but each repository has a specific job.
 
 ### 01 — Business & Technology Analysis
 
-**Research, systems analysis, requirements, process analysis, and decision support.**
+**What it proves:** structured analysis, requirements thinking, architecture reasoning, process and systems thinking.
+
+The repository already contains a substantive architecture analysis derived from a historical modular systems project, including capability boundaries across domain, identity, authorization, data, AI, automation, APIs, governance, and quality.
 
 → [Research-Business_analysis](https://github.com/Praful-Jadhav/Research-Business_analysis)
 
-### 02 — Project Openmind
+### 02 — Openmind
 
-**Research-led exploration of people, information, systems, and intelligent technology.**
+**What it proves:** deeper technical capability through one coherent open-source engineering project.
+
+Openmind is where architecture, implementation, APIs, data, security, AI, automation, testing, deployment, and engineering judgment are consolidated when they genuinely belong to the project.
 
 → [Project-Openmind](https://github.com/Praful-Jadhav/Project-Openmind)
 
 ### 03 — Professional Portfolio
 
-**Case studies and professional evidence translated for recruiters, business stakeholders, and technical reviewers.**
+**What it proves:** ability to communicate technical and business work clearly to different audiences through case studies and evidence.
 
 → [Project-Portfolio](https://github.com/Praful-Jadhav/Project-Portfolio)
 
-### 04 — Open-source engineering
+### 04 — Profile
 
-One deliberately scoped public engineering project will provide deeper implementation evidence. It will be published only when the implementation, documentation, tests, and claims are ready.
+This repository is the profile itself: professional positioning, navigation, and context for the evidence above.
 
 ## How I work
 
 I start with the problem rather than the technology.
 
-**Context → problem → current state → requirements → options → trade-offs → recommendation → execution**
+**Context → problem → current state → requirements → options → trade-offs → recommendation → execution → validation**
 
-My technical background helps me communicate with engineers and understand feasibility. My primary professional value is **connecting business needs with technology and execution**.
+My technical background helps me understand feasibility and communicate with engineers. My primary professional value is **connecting business needs with technology and execution**.
 
 ## Professional direction
 
@@ -65,7 +69,7 @@ The market-facing role does not replace the underlying identity. It translates t
 
 **Python · JavaScript · TypeScript · SQL · REST APIs · React · Next.js · Node.js · Git · GitHub · Docker · Databases · AI applications · Workflow automation · n8n**
 
-I am not positioning myself as a code-first software engineer. I use technical fluency to **analyse systems, assess feasibility, work across business and engineering contexts, and design practical solutions**.
+I am **not positioning myself as a code-first software engineer**. I use technical fluency to analyse systems, assess feasibility, work across business and engineering contexts, and design practical solutions.
 
 ## Evidence standard
 
@@ -75,27 +79,30 @@ I distinguish between:
 
 - **Observed** — supported by available evidence
 - **Assumed** — not yet verified
-- **Proposed** — a design or recommendation
-- **Implemented** — actually built
-- **Validated** — tested with defined evidence
+- **Proposed** — design or recommendation
+- **Implemented** — working code exists
+- **Tested** — defined tests have been executed
+- **Validated** — evidence supports the stated result
 
-No invented users, revenue, production scale, adoption, or impact.
+No invented users, revenue, production scale, adoption, security guarantees, or business impact.
 
 ## Why this profile is intentionally small
 
-I have a large historical project corpus. It is valuable as **research, evidence, reusable engineering, and lessons learned**—not as a reason to publish dozens of repositories.
+I have a large historical project corpus. It is valuable as **research, evidence, reusable engineering, patterns, and lessons learned** — not as a reason to publish dozens of repositories with overlapping names and weak proof.
 
-The public portfolio is therefore selective:
+The public portfolio follows:
 
 **less noise → clearer signal → easier evaluation → stronger credibility**
 
-## Start here
+## For visitors
 
-If you are a **recruiter or hiring manager**, start with the analysis and portfolio repositories.
+**Recruiter / hiring manager:** start with the Proof of Work section and the analysis repository.
 
-If you are a **business or operations leader**, look for the problem definition, process analysis, requirements, and decision logic.
+**Business / operations leader:** follow the problem, requirements, decisions, and practical value.
 
-If you are an **engineer or architect**, the open-source work will provide the deeper implementation evidence.
+**Engineer / architect:** inspect Openmind for architecture, source code, tests, security, deployment, and trade-offs.
+
+**Senior authority:** evaluate the evidence chain and decision quality rather than the amount of technology listed.
 
 ---
 

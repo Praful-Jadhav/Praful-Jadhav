@@ -1,162 +1,93 @@
 # Praful Jadhav
 
-> **Business Systems Analyst | Technology Strategy | AI & Automation | Systems Thinking**
+> **Business & Technology Systems | Operations | Business Analysis | AI & Automation**
 
-I design and build technology-driven business systems that improve operations, automate workflows, and support better decision-making.
+I work at the intersection of **business operations and technology** — analyzing problems, improving processes, designing practical systems, and using automation where it creates measurable leverage.
 
-My work sits at the intersection of **Business, Technology, AI, Automation, and Product Strategy**, with a strong focus on creating scalable, maintainable, and practical solutions rather than isolated software projects.
+My background in computer science gives me technical fluency, while my primary professional focus is on **how technology can improve the way businesses operate and make decisions**.
 
----
+## What I Focus On
 
-## About
+- Business & systems analysis
+- Operations and process improvement
+- Requirements and solution design
+- Workflow and process automation
+- AI-assisted business workflows
+- Technology-enabled operations
+- Product and systems thinking
+- Technical documentation and decision analysis
 
-I am a Computer Science & Engineering graduate specializing in Artificial Intelligence & Machine Learning with **4.5+ years of practical experience** gained through professional roles, research, internships, and independent engineering initiatives alongside formal education.
+## How I Work
 
-Rather than specializing in a single technology, I focus on understanding **how technology creates business value**.
+```text
+Business Problem
+      ↓
+Understand & Analyze
+      ↓
+Requirements / Process Model
+      ↓
+Solution Design
+      ↓
+Technology & Automation
+      ↓
+Execution & Improvement
+```
 
-My interests include:
+I prefer **business outcomes over technology for its own sake**, practical systems over unnecessary complexity, and evidence over hype.
 
-- Business Systems Analysis
-- AI & Workflow Automation
-- Technology Strategy
-- Product & Process Design
-- Operations Optimization
-- Knowledge Management
-- Platform Architecture
-- Digital Transformation
+## Technical Foundation
 
----
+**Languages & Application:** Python, TypeScript, JavaScript, SQL, React, Next.js, Node.js, REST APIs
 
-## Professional Focus
+**Systems & Infrastructure:** Git, GitHub, Docker, databases, APIs, security fundamentals, system architecture
 
-I enjoy solving problems that require both technical understanding and business thinking.
+**AI & Automation:** AI applications, workflow automation, AI integration, knowledge systems, n8n and related automation patterns
 
-Current focus areas include:
+Technology is a supporting capability. The objective is to solve the right problem, not to maximize the stack.
 
-- Business Process Automation
-- AI-Assisted Workflows
-- Internal Business Platforms
-- Knowledge Systems
-- Workflow Optimization
-- Product Strategy
-- Business Operations
-- System Architecture
+## Selected Evidence
 
----
+This profile is intentionally curated rather than a catalogue of every project I have explored.
 
-## Core Technology
+The public portfolio is being rebuilt around a small set of artifacts that demonstrate:
 
-### Business & Strategy
+- business and technical analysis
+- operational problem solving
+- system and workflow design
+- practical automation
+- documented engineering decisions
+- genuine open-source engineering
 
-- Business Systems Analysis
-- Process Mapping
-- Requirements Engineering
-- Product Thinking
-- Workflow Design
-- Documentation
-- Solution Design
+Historical projects and experiments remain useful as an internal evidence base. They are mined for reusable ideas, architecture, research, code, lessons, and patterns rather than republished as project spam.
 
-### AI & Automation
+## Professional Direction
 
-- AI Applications
-- Workflow Automation
-- Prompt Engineering
-- Knowledge Systems
-- AI Integration
-- Process Automation
+**Employment:** Business & Technology Systems / Operations Analyst roles, with emphasis on business analysis, process improvement, technology-enabled operations, and automation.
 
-### Engineering
+**Long term:** Build toward entrepreneurship, ownership, and technology-enabled businesses.
 
-- TypeScript
-- Python
-- React
-- Next.js
-- Node.js
-- REST APIs
-- SQL
-- Docker
-- Git & GitHub
+These are not competing identities. The professional role is the market-facing application of the same underlying strengths: **understanding problems, connecting business and technology, and improving systems.**
 
----
-
-# Core Ecosystem
-
-Instead of building isolated projects, I focus on building connected systems.
-
-## Business Systems
-
-- ARIA Business
-- RIE Unified OS
-- Workflow Automation Platform
-
-Focus:
-Business operations, workflows, automation, internal systems.
-
----
-
-## AI & Knowledge Systems
-
-- OmniBrain Core
-- Unified Memory
-- AI Workflow Platform
-
-Focus:
-Knowledge management, AI integration, intelligent workflows.
-
----
-
-## Platform Engineering
-
-- ARIA OpenSource
-- Shared Libraries
-- Infrastructure Components
-
-Focus:
-Reusable architecture, modular systems, engineering standards.
-
----
-
-## Research & Experiments
-
-A collection of prototypes, experiments, and learning projects used to explore new technologies before production implementation.
-
----
-
-# Engineering Principles
+## Engineering Standard
 
 I value:
 
-- Systems over isolated features
-- Business outcomes over technology trends
-- Automation over repetitive work
-- Simplicity over unnecessary complexity
+- Real implementation over presentation
+- Evidence over inflated claims
+- Maintainability over unnecessary complexity
+- Reusable systems over one-off work
+- Open standards and open-source where practical
 - Documentation as part of engineering
-- Continuous learning through practical implementation
+- Measurable outcomes where they can be established
+
+I do not claim production scale, users, revenue, or impact where the evidence does not support it.
+
+## Current Direction
+
+I am building a deliberately small public body of work around **business systems, operations, technology, AI/automation, and open-source engineering**.
+
+The objective is simple: **create useful systems, document the reasoning, and let the quality of the evidence speak for itself.**
 
 ---
 
-# Current Interests
-
-- Business Systems
-- Technology Strategy
-- AI Automation
-- Digital Transformation
-- Process Optimization
-- Product Development
-- Platform Architecture
-- Knowledge Systems
-
----
-
-# Connect
-
-- LinkedIn
-- Portfolio
-- Resume
-- Email
-
-(Links available from my profile.)
-
----
-
-> *"Technology creates value only when it improves how people and businesses work."*
+> **Preserve the reality. Curate the evidence. Translate the language. Close the gaps. Build only what is missing.**

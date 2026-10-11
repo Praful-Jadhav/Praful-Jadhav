@@ -9,7 +9,7 @@ Risk tier: R1
 Add a lightweight integrity and evidence gate to the public professional profile. Risk is presenting plans, generated descriptions or unreconciled repository claims as demonstrated capabilities.
 
 ## Scope and acceptance criteria
-In scope: profile rules, README structure and known-pattern checks, evidence packet validator, tests and CI workflow. Out of scope: automatic proof of professional history, external link reachability and reputation/perception testing. Material profile changes require a source-controlled packet, and placeholder/secret-pattern checks must pass.
+In scope: profile rules, README structure and known-pattern checks, evidence packet validator, tests and CI workflow. Out of scope: automatic proof of professional history, external link reachability and reputation/perception testing. Material profile changes require a source-controlled packet, and draft-marker/secret-pattern checks must pass.
 
 ## Verification plan and results
 CI will run Python tests and validate README structure plus this packet against the exact candidate revision. Record the final SHA and run result after completion. No PASS is asserted in advance.

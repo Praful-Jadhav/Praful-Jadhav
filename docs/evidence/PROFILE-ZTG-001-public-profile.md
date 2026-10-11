@@ -24,7 +24,7 @@ Use public work artifacts as evidence. Do not expose private client details, per
 Static checks do not prove every factual claim or verify external links. Manual evidence review and rendered profile inspection remain required for substantial edits.
 
 ## Recovery and rollback
-Revert the evidence gate if it creates false positives or fails to detect the tested placeholder/credential patterns.
+Revert the evidence gate if it creates false positives or fails to detect the tested draft-marker/credential patterns.
 
 ## Evidence and tested revision
 Use the final Actions run to record the exact candidate SHA. Keep status IN_PROGRESS until the checks pass and the profile claims are reviewed.

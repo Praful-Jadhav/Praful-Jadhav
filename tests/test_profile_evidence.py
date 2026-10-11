@@ -27,7 +27,7 @@ Claims point to public work products; private client information, credentials an
 Static checks cannot prove the truth of every professional claim or whether all external links currently resolve.
 
 ## Recovery and rollback
-Revert the gate if it falsely flags a valid profile or fails to detect a known placeholder/secret pattern.
+Revert the gate if it falsely flags a valid profile or fails to detect a known unfinished-copy/secret pattern.
 
 ## Evidence and tested revision
 Read the exact candidate SHA and CI result after completion. No claim is accepted by this checker alone.
